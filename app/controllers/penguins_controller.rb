@@ -1,0 +1,2 @@
+class PenguinsController < ApplicationController
+end
